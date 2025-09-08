@@ -56,14 +56,13 @@ Previously, I served as **Sr. Manager of Data Science at Cofit Healthcare**, lea
 - **H&M Fashion Recommendation System** – Applied **PCA, clustering, LightGBM** to reach **0.99 HIT rate** [[Repo]](https://github.com/lincolnilreb)  
 
 -->
+<!--
 ---
 
 ## 📊 GitHub Stats  
 
-<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnilreb&show_icons=true&theme=default)  
 -->
-![snake gif](https://github.com/lincolnilreb/lincolnilreb/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
