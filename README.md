@@ -60,7 +60,11 @@ Previously, I served as **Sr. Manager of Data Science at Cofit Healthcare**, lea
 
 ## 📊 GitHub Stats  
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnilreb&show_icons=true&theme=default)  
+-->
+![snake gif](https://github.com/lincolnilreb/lincolnilreb/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
