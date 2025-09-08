@@ -19,29 +19,32 @@ Here are some ideas to get you started:
 # Hi, I'm Lincoln Lin 👋  
 
 🎯 **Aspiring Data Engineer / Machine Learning Engineer**  
+
 📍 Based in Georgia (open to opportunities in **AZ, TX**)  | 🌐 [LinkedIn](https://linkedin.com/in/lincolnilreb) | 📫 [Email](mailto:lincolnilreb@gmail.com)
 
----
+
 
 ## 🔭 About Me
-I’m a **Data Enthusiast with 5+ years of experience** turning raw data into actionable insights through **scalable data platforms, ETL pipelines, and predictive models**. With a unique mix of **engineering skills and biomedical expertise**, I’ve delivered high-impact solutions in both **healthcare and commercial domains**.  
+I’m a **Data Enthusiast with 5+ years of experience** turning raw data into actionable insights through **scalable data platforms, ETL pipelines, and predictive models**. With a unique mix of **engineering skills and biomedical expertise**, I’ve delivered high-impact solutions in both healthcare and commercial domains.  
 
 Currently, I’m pursuing my **M.S. in Analytics at Georgia Tech (graduating Dec 2025)**, where I work on projects in **data engineering, machine learning, and applied AI**.  
 
-Previously, I served as **Sr. Manager of Data Science at Cofit Healthcare**, leading initiatives to integrate healthcare data, build cloud-based pipelines, and deploy machine learning solutions that directly improved patient outcomes and business performance.  
+Previously, I served as Sr. Manager of Data Science at Cofit Healthcare, leading initiatives to integrate healthcare data, build cloud-based pipelines, and deploy machine learning solutions that directly improved patient outcomes and business performance.  
 
-🚀 I’m passionate about designing **data-driven systems that scale**—from ETL pipelines to ML models—and I’m actively seeking **full-time opportunities in Data Engineering or Machine Learning Engineering starting 2026**.   
+🚀 I’m passionate about creating scalable data systems, from ETL pipelines to machine learning models. Now, I’m proactively seeking **full-time opportunities in Data Engineering / Machine Learning Engineering starting in 2026**. If you’re looking for someone who can turn complex data into impactful solutions, I’d love to connect.
 
----
 
 ## 🛠 Skills & Tools  
 **Programming & Data**  
 `Python` `SQL` `R` `SAS` `Linux`  
+
 **Cloud & Data Engineering**  
 `AWS (S3, EC2, Glue, Redshift)` `GCP (BigQuery, Cloud Storage, Dataproc)` `MySQL` `PySpark`  
+
 **Machine Learning & AI**  
 `Regression` `Random Forest` `XGBoost` `LightGBM` `KMeans` `GMM` `DBSCAN`  
 `Deep Learning (CNN, LSTM, Transformers)` with **PyTorch**, **TensorFlow**, **scikit-learn**  
+
 **Visualization**  
 `Tableau` `Looker Studio` `ggplot2` `matplotlib` `seaborn`  
 
@@ -65,19 +68,5 @@ Previously, I served as **Sr. Manager of Data Science at Cofit Healthcare**, lea
 -->
 
 
----
 
-## 🎓 Education  
-
-- **M.S. Analytics** – Georgia Institute of Technology *(Dec 2025)*  
-- **M.S. Clinical Pharmaceutical Genomics & Proteomics** – Taipei Medical University *(Jun 2021)*  
-
----
-
-## 📜 Certifications  
-- **AWS Certified Data Engineer – Associate** *(Expected Oct 2025)*  
-
----
-
-✨ Thanks for visiting my profile! Feel free to connect if you’re looking for a data-driven problem solver.
-
+✨ Thanks for visiting my profile! Let’s connect if you are looking for someone who love to challenge  mission impossible.
