@@ -31,8 +31,12 @@ Currently, I’m pursuing my **M.S. in Analytics at Georgia Tech (graduating Dec
 
 Previously, I served as Sr. Manager of Data Science at Cofit Healthcare, leading initiatives to integrate healthcare data, build cloud-based pipelines, and deploy machine learning solutions that directly improved patient outcomes and business performance.  
 
-🚀 I’m passionate about creating scalable data systems, from ETL pipelines to machine learning models. Now, I’m proactively seeking **full-time opportunities in Data Engineering / Machine Learning Engineering starting in 2026**. If you’re looking for someone who can turn complex data into impactful solutions, I’d love to connect.
+🚀 I’m passionate about creating scalable data systems, from ETL pipelines to machine learning models. Now, I’m proactively seeking **full-time opportunities in Data Engineering / Machine Learning Engineering starting in 2026**. If you are looking for someone who love to challenge mission impossible., I’d love to connect.
 
+✨ Thanks for visiting my profile!
+
+
+<!--
 
 ## 🛠 Skills & Tools  
 **Programming & Data**  
@@ -48,7 +52,6 @@ Previously, I served as Sr. Manager of Data Science at Cofit Healthcare, leading
 **Visualization**  
 `Tableau` `Looker Studio` `ggplot2` `matplotlib` `seaborn`  
 
-<!--
 ---
 
 ## 📂 Featured Projects  
@@ -69,4 +72,4 @@ Previously, I served as Sr. Manager of Data Science at Cofit Healthcare, leading
 
 
 
-✨ Thanks for visiting my profile! Let’s connect if you are looking for someone who love to challenge  mission impossible.
+
