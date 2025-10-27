@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🎯 **Aspiring Data Engineer / Machine Learning Engineer**  
 
-📍 Based in Georgia (open to opportunities in **AZ, TX**)  | 🌐 [LinkedIn](https://linkedin.com/in/lincolnilreb) | 📫 [Email](mailto:lincolnilreb@gmail.com)
+📍 Based in Georgia (open to opportunities in **GA, AZ, TX**)  | 🌐 [LinkedIn](https://linkedin.com/in/lincolnilreb) | 📫 [Email](mailto:lincolnilreb@gmail.com)
 
 
 
