@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 # Hi, I'm Lincoln Lin 👋  
 
-🎯 **Aspiring Data Engineer / Machine Learning Engineer**  
+🎯 **Aspiring Data Scientist / Machine Learning Engineer**  
 
-📍 Based in Georgia (open to opportunities in **GA, AZ, TX**)  | 🌐 [LinkedIn](https://linkedin.com/in/lincolnilreb) | 📫 [Email](mailto:lincolnilreb@gmail.com)
+📍 Based in Georgia (open to opportunities in **GA, CA, AZ, TX**)  | 🌐 [LinkedIn](https://linkedin.com/in/lincolnilreb) | 📫 [Email](mailto:lincolnilreb@gmail.com)
 
 
 
